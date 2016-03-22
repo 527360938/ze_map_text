@@ -2,443 +2,443 @@
 {
 	">> Map by TaskuVaras <<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者:TaskuVaras 汉化:水墨涟漪踏无痕**"
 	}
 	">> Fixed by Moltard <<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图修复:Moltard **"
 	}
 	"[Special Thanks to: Muro#[A] FT]"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢: Muro#[A] FT **"
 	}
 	">>Map ported by www.dashijie.es"
 	{
-		"chi"		"** **"
+		"chi"		"**地图下载:www.dashijie.es **"
 	}
 	">> WARMUP ROUND <<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛 **"
 	}
 	">> 40 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩下40秒!!! **"
 	}
 	">> 30 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩下30秒!!! **"
 	}
 	">> 20 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩下20秒!!! **"
 	}
 	">> 10 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩下10秒!!! **"
 	}
 	">> WARMUP ROUND END <<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛结束!!! **"
 	}
 	">> IDEA: Sienestaja <<"
 	{
-		"chi"		"** **"
+		"chi"		"**创意:Sienestaja **"
 	}
 	"[Load ShroomForest Config]"
 	{
-		"chi"		"** **"
+		"chi"		"**加载蘑菇森林配置 **"
 	}
 	">> LEVEL: FLAT GRASS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:平坦的草地 **"
 	}
 	"*** WAIT TILL THAT WALL BREAKS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待墙壁破碎!!! **"
 	}
 	"*** WALL IS BROKEN RUUUUUUN!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙破了!!!快撤退!!!! **"
 	}
 	">> PLAYER HAS PICKED UP ICE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--冰(面前产生一个冰块,冰冻僵尸) **"
 	}
 	">> PLAYER HAS PICKED UP FIRE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--火(前方范围起火,减速僵尸) **"
 	}
 	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**等待炸弹将木板炸碎!!! **"
 	}
 	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**木板碎了!!!快点跑!!!自己注意菊花!!! **"
 	}
 	"*** Leaf 1 leaving in 7 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一片叶子将在7秒后离开!!! **"
 	}
 	"*** Leaf 2 leaving in 7 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二片叶子将在7秒后离开!!! **"
 	}
 	">> HOLD FOR 30 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里30秒!!! **"
 	}
 	">> 5 more seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒!!!撑住!!! **"
 	}
 	">> GO! GO! GO! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑!!! **"
 	}
 	"*** OH NO Its an EVIL BUTTERFLY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天啊!!一只邪恶的蝴蝶!!! **"
 	}
 	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在太晚之前,射杀它!!!! **"
 	}
 	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶死了!!!等待救援的到来!!! **"
 	}
 	">> BUTTERFLY LEAVING IN 10 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶将在10秒后飞离!!!装逼的注意了!!! **"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡完成 **"
 	}
 	">> LEVEL: BIG TREE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:大树 **"
 	}
 	"*** HOLD FOR 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里10秒!!! **"
 	}
 	"*** HOLD FOR 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里20秒!!! **"
 	}
 	"*** HOLD FOR 40 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里40秒!!! **"
 	}
 	"*** HOLD FOR 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里5秒!!! **"
 	}
 	"*** GO GO GO!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑啊!!!! **"
 	}
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在20秒后上升!!! **"
 	}
 	"*** ELEVATOR LEAVING IN 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在10秒后上升!!!装逼的注意了!!! **"
 	}
 	"*** ELEVATOR LEAVING IN 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在5秒后上升!!!!真的没时间了!!! **"
 	}
 	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一只愤怒的皮卡丘!!!射杀它!!! **"
 	}
 	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**人类赶紧下电梯,或者等待对于你的惩罚到来 **"
 	}
 	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**皮卡丘正在使用十万伏特!!!保持进攻!!!别划水!!! **"
 	}
 	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**皮卡丘死了!!!跑向救援蝴蝶!!! **"
 	}
 	">> BUTTERFLY LEAVING IN 15 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶将在15秒后离开!!! **"
 	}
 	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来了!!!咸鱼啊!!!关卡失败 **"
 	}
 	">> PLAYER HAS PICKED UP HEAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--奶(恢复自身范围内的友军生命) **"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--地雷(6颗地雷,种下后僵尸踩到爆炸减速僵尸) **"
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--土(前方产生一道墙,阻挡僵尸) **"
 	}
 	">> ALL 6 MINES USED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**所有地雷已用尽 **"
 	}
 	">> LEVEL: HELL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:地狱 **"
 	}
 	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--无限弹药(使用后一定时间内友军弹药无限) **"
 	}
 	"*** HOLD FOR 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里30秒!!! **"
 	}
 	"*** DOOR IS OPEN! RUUUN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了!!快点跑!!!! **"
 	}
 	">> PLAYER HAS PICKED UP GRAVITY <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--重力(前方范围内僵尸减速) **"
 	}
 	">> SECRET IS NOW OPEN <<"
 	{
-		"chi"		"** **"
+		"chi"		"**密码已经解开 **"
 	}
 	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起来神器--终极武器(前方小范围秒杀僵尸) **"
 	}
 	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你们需要找到一把钥匙来打开这扇被锁住的大门 **"
 	}
 	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**也许钥匙在旁边房间里面的箱子里 **"
 	}
 	"*** PLAYER FOUND A KEY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家找到了钥匙 **"
 	}
 	"*** OH NO!! ITS SATAN!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天啊!!!是撒旦!!! **"
 	}
 	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**射杀他!!!或者被他永远的奴隶!!! **"
 	}
 	"*** THROW GRENADES TO KILL IT EASIER ***"
 	{
-		"chi"		"** **"
+		"chi"		"**扔手雷可以更简单的击杀他!!! **"
 	}
 	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撒旦受伤了!!你可以自由的离开地狱了!!! **"
 	}
 	">> WAIT FOR 10 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**等待10秒!!! **"
 	}
 	">> LEVEL COMPLETED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡完成 **"
 	}
 	">> EXTREME MODE ADDED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**极限难度增加 **"
 	}
 	">> BOSSES ON LEVEL II <<"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS难度2级 **"
 	}
 	"*** HOLD FOR ABOUT 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里30秒!!! **"
 	}
 	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**同时按下2个按钮启动电梯!!! **"
 	}
 	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个地方10秒!!!! **"
 	}
 	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一只愤怒的皮卡丘阻挡了我们的路!!! **"
 	}
 	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**野生的DITTO出现了射杀它!!! **"
 	}
 	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**DITTO正在使用变换!!!! **"
 	}
 	">> BUTTERFLY LEAVING IN 30 seconds <<"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶将在30秒后离开!!! **"
 	}
 	">> DITTO IS USING SEED ATTACK <<"
 	{
-		"chi"		"** **"
+		"chi"		"**DITTO正在使用种子攻击!!! **"
 	}
 	">> DITTO IS USING FLAMETHROWER <<"
 	{
-		"chi"		"** **"
+		"chi"		"**DITTO正在使用火焰喷射!!! **"
 	}
 	">> PLAYER HAS PICKED UP WIND <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了神器--风(持续高击退前方僵尸) **"
 	}
 	"*** OH NO!! ITS DRAGON!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天啊!!!是一条龙!!! **"
 	}
 	"*** SHOOT IT BEFORE ITS TOO LATE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**在太晚之前,射杀它!!! **"
 	}
 	"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**龙受伤了!!你可以自由的离开地狱了!! **"
 	}
 	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**守住村庄30秒!!!!(别让僵尸靠近大门) **"
 	}
 	">> ZOMBIES INSIDE!! LEVEL FAILED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进来了!!!!关卡失败 **"
 	}
 	">> You have succesfully saved Shroomforest <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你们成功的拯救了蘑菇森林,英雄!!! **"
 	}
 	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
 	{
-		"chi"		"** **"
+		"chi"		"**新的关卡在控制室解锁 **"
 	}
 	">> LEVEL: CHOOSING LEVEL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:选择关卡 **"
 	}
 	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类到达传送控制室 **"
 	}
 	"*** YOU CAN CHOOSE LEVEL AND MODE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以选择关卡或者模式 **"
 	}
 	"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直到核爆到来,你还有60秒的时间来完成!!! **"
 	}
 	">> PLAYER HAS CHOSEN: HELL EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:极限难度-地狱 **"
 	}
 	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直到核爆到来,你还有45秒!!! **"
 	}
 	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:新的开始 **"
 	}
 	">> NUKE INCOMING IN 5 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**核爆将在5秒后到来!!!(say goodbye) **"
 	}
 	">> LEVEL: A NEW BEGINNING <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡:新的开始 **"
 	}
 	"*** THE ELEVATOR WILL FALL DOWN !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯坠毁了!!!! **"
 	}
 	"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**赶紧出去否则你将被困在里面!!! **"
 	}
 	">> IT LOOK LIKE A NEW PLACE ... <<"
 	{
-		"chi"		"** **"
+		"chi"		"**这里看起来像一个新的地方 **"
 	}
 	">> A WILD PIKACHU IS WAITING FOR US !! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一只野生的皮卡丘在等着我们!!! **"
 	}
 	">> CT GET OUT THE ELEVATOR AND FIGHT !! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**人类赶紧离开电梯,准备战斗!!! **"
 	}
 	"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**皮卡丘要倒下来了!!远离它!!! **"
 	}
 	"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这里地方将会是我们的新村庄 **"
 	}
 	"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**寻找一个方法来关闭电梯门禁 **"
 	}
 	"*** DONT LET ANY ZOMBIE ENTER !! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让任何僵尸进来!!!! **"
 	}
 	">> ZOMBIES DETECTED!! LEVEL FAILED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**检测到僵尸!!!关卡失败!!! **"
 	}
 	">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拿起了齿轮 **"
 	}
 	">> GOOD JOB <<"
 	{
-		"chi"		"** **"
+		"chi"		"**好样的!!!! **"
 	}
 	">> THE GRID SHOULD START TO CLOSE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**栅栏网开始关闭!!!! **"
 	}
 	">> You have succefully saved our new village <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你们成功的拯救了我们新的村庄!!!! **"
 	}
 	"[Load Shroom End Config]"
 	{
-		"chi"		"** **"
+		"chi"		"**加载蘑菇结束配置 **"
 	}
 	">> Congratulation ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜~~~~~ **"
 	}
 	">> You beat the map ! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你们打通了这个地图!!!!6666666 **"
 	}
 	">> Play ShroomForest2 to continue the adventure <<"
 	{
-		"chi"		"** **"
+		"chi"		"**继续蘑菇森林2的冒险~~~ **"
 	}
 	">> Feel free to visit the spawn <<"
 	{
@@ -446,86 +446,86 @@
 	}
 	">> Quick ZM Mod <<"
 	{
-		"chi"		"** **"
+		"chi"		"**ZM模式 **"
 	}
 	">> Zombies will spawn soon <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸很快就会产生 **"
 	}
 	">> Survive 1 minute <<"
 	{
-		"chi"		"** **"
+		"chi"		"**生存1分钟 **"
 	}
 	">> If you change level via admin room <<"
 	{
-		"chi"		"** **"
+		"chi"		"**如果你想改变关卡请通过控制室 **"
 	}
 	">> Be sure to press Nuke Button <<"
 	{
-		"chi"		"** **"
+		"chi"		"**确保按下了核爆按钮 **"
 	}
 	">> DITTO IS USING WATER... SOMETHING <<"
 	{
-		"chi"		"** **"
+		"chi"		"**DITTO正在使用水??或者别的一些什么?? **"
 	}
 	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
 	{
-		"chi"		"** **"
+		"chi"		"**DITTO正在使用十万伏特,远离水!!!! **"
 	}
 	">> DITTO IS USING SOMETHING... FUNNY? <<"
 	{
-		"chi"		"** **"
+		"chi"		"**DITTO正在使用一些东西???好笑的东西??? **"
 	}
 	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**野生的DITTO被打败了!!快跑啊!!! **"
 	}
 	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直到核爆,你还有30秒的时间!!! **"
 	}
 	">> 5 seconds left <<"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩余5秒!!!! **"
 	}
 	"*** SATAN IS PREPARING TO ATTACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撒旦正在准备攻击!!! **"
 	}
 	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直到核爆,你还有15秒的时间!!!! **"
 	}
 	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直到核爆,你还有10秒的时间!!! **"
 	}
 	">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:极限难度-大树 **"
 	}
 	">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:极限难度-平坦的草地 **"
 	}
 	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直到核爆,你还有5秒的时间!!! **"
 	}
 	"*** SATAN IS ATTACKING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撒旦正在攻击!!!! **"
 	}
 	">> PLAYER HAS CHOSEN: HELL NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:正常难度-地狱 **"
 	}
 	">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:正常难度-大树 **"
 	}
 	">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了:正常难度-平坦的草地 **"
 	}
 }
